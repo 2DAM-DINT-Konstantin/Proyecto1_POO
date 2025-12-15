@@ -20,6 +20,12 @@ public class Auto extends Vehiculo {
     public String mostrarInfo() {
         return "Tipo: Auto\n" +
                super.mostrarInfo() +
-               "\nTipo Combustible: " + tipoCombustible;
+               "\nTipo Combustible: " + tipoCombustible +
+                "Primer commit";
+              
     }
+    
+
+            
+           
 }
