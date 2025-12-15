@@ -21,7 +21,7 @@ public class Auto extends Vehiculo {
         return "Tipo: Auto\n" +
                super.mostrarInfo() +
                "\nTipo Combustible: " + tipoCombustible +
-                "Primer commit";
+                "Tercer commit";
               
     }
     
